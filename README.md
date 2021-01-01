@@ -1,14 +1,14 @@
 # Project Overview:
   This project was created to save and generate passwords for the user. The program has the ability to search for saved passwords and uses messagebox to create pop-ups.
 
-This project required the following skills:
+**This project required the following skills:**
   - Creating user interface
   - lists
   - for loops
   - Try, Except, Else, Finally
   
 
-**Libraries used**
+**Libraries Used:**
   - Tkinter
   - pyperclip
   - json
