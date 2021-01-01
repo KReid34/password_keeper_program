@@ -119,7 +119,7 @@ web_entry.focus()
 email_entry = Entry()
 email_entry.config(width=35)
 email_entry.grid(column=1, row=2, columnspan=2)
-email_entry.insert(0, "kcoscuna34@gmail.com")
+email_entry.insert(0, "k_reid34@yahoo.com")
 
 
 # Button- generate password
